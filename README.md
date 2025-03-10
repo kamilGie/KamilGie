@@ -29,9 +29,9 @@
 
 <h3>📂 Repositories to Help Others</h3>
 <ul>
+  <li><a href="https://github.com/kamilGie/Rosnotes">Rosnotes</a> - A template for generating notebooks with solutions in various stylish themes, using python and github actions</li>
   <li><a href="https://github.com/kamilGie/ASRT-WDI">ASRT-WDI</a> - Automatically generated templates, solutions, and tests for WDI at AGH, using Python, Pygame and Bash scripting</li>
   <li><a href="https://github.com/kamilGie/System-biliardkowy-UJ">System-biliardkowy-UJ</a> - A project for the bioinformatics programming workshop at UJ, implemented with C</li>
-  <li><a href="https://github.com/kamilGie/cpp">Baca</a> - Solutions for Programming 1 at UJ, focused on algorithms and data structures in C++</li>
 </ul>
 
 
